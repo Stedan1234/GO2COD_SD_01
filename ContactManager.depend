@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729545495 source:c:\users\stedan\desktop\go2cod internship projects\contact manager\contactmanager\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+
